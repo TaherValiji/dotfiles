@@ -1,0 +1,4 @@
+# comments start with #
+fish/.config/fish/fish_variables
+**/.cache/
+**/*.log
