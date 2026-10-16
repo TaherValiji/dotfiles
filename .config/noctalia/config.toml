@@ -29,3 +29,11 @@ wallpaper_scheme = "vibrant"
 [bar.default]
 background_opacity = 0.0
 capsule = true
+capsule_radius = 5
+capsule_thickness = 0.64999998919665813
+center = [ "clock", "date" ]
+end = [ "media", "tray", "notifications", "clipboard", "network", "bluetooth", "volume", "battery", "session" ]
+margin_ends = 25
+padding = 0
+shadow = false
+start = [ "workspaces" ]
